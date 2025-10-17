@@ -46,5 +46,5 @@ This project helped me understand:
 - Testbench verification  
 
 ## 🔗 Repository Link
-(Replace this with your own repo link after uploading, e.g.)  
-**https://github.com/yourusername/8-bit-ALU-verilog**
+
+(https://github.com/Hmv33/8bit-ALU)
